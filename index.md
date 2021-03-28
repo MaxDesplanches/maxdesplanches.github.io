@@ -29,7 +29,7 @@ Choose a language of your choice:
 - Send us the repository link
 
 ## Task 1
-Create a GET /products endpoint returning all the products (see products.json link above).
+Create a GET /products endpoint returning all the products (see products.json link below).
 
 The response must be sorted by product name.
 
