@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: BACKEND DEVELOPER WANTED!
 description: We are hiring the best back-end developers !
+github:
+  is_project_page: false
