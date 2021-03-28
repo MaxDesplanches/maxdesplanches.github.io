@@ -1,3 +1,7 @@
+---
+layout: index
+---
+
 ## Instructions
 
 Create an api
