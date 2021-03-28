@@ -40,7 +40,7 @@ Create a GET /product/{id} endpoint to return a single product.
 Create a GET /product?search=[NAME] endpoint to search products.
 
 ## Task 4 (bonus task)
-API Documentation (Generator from code allowed)
+API Documentation (Generator from code allowed).
 
 ## Task 5 (bonus task)
 Setup a linter.
