@@ -4,9 +4,12 @@
 @import "{{ site.theme }}";
 
 .page-header {
-    color: rgb(255, 255, 255);
+    color: #fff;
     text-align: center;
-    background-color: rgb(80, 80, 80);
+    background-color: #159957;
+    background-image: linear-gradient(
+120deg
+, #153f68, #0d2339);
 }
 
 body {
@@ -15,7 +18,8 @@ body {
     font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 16px;
     line-height: 1.5;
-    color: #606c71;
+    color: #8f8f8f;
+    background-color: #192026;
 }
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {

@@ -1,0 +1,362 @@
+[
+    {
+        "id": "1",
+        "name": "Alice cloth backpack",
+        "originalPrice": {
+            "currency": "EUR",
+            "cents": 8477,
+            "formatted": "$84.77"
+        },
+        "brand": {
+            "id": "0",
+            "type": "brand",
+            "name": "Chloé",
+            "localizedName": "chloé"
+        },
+        "followers": 18,
+        "daysOnline": 41,
+        "viewsSinceLastWeek": 0,
+        "isPriceDropAlertView": false,
+        "isPriceDropAlertDaysOnline": false,
+        "pictures": [
+            {
+                "alt": "",
+                "path": "22865326-1_1.jpg"
+            }
+        ],
+        "priceDropped": {
+            "currency": "EUR",
+            "cents": 6869,
+            "formatted": "$68.69"
+        },
+        "recommendedPrice": {
+            "currency": "EUR",
+            "cents": 6869,
+            "formatted": "67.69"
+        }
+    },
+    {
+        "id": "6",
+        "name": "Birkin 35 leather handbag",
+        "originalPrice": {
+            "currency": "EUR",
+            "cents": 6073,
+            "formatted": "$60.73"
+        },
+        "brand": {
+            "id": "0",
+            "type": "brand",
+            "name": "Hermès",
+            "localizedName": "hermès"
+        },
+        "followers": 18,
+        "daysOnline": 46,
+        "viewsSinceLastWeek": 0,
+        "isPriceDropAlertView": false,
+        "isPriceDropAlertDaysOnline": false,
+        "pictures": [
+            {
+                "alt": "",
+                "path": "10680307-1_1.jpg"
+            }
+        ],
+        "priceDropped": {
+            "currency": "EUR",
+            "cents": 3977,
+            "formatted": "$39.77"
+        },
+        "recommendedPrice": {
+            "currency": "EUR",
+            "cents": 3977,
+            "formatted": "38.77"
+        }
+    },
+    {
+        "id": "5",
+        "name": "Pearl earrings",
+        "originalPrice": {
+            "currency": "EUR",
+            "cents": 14424,
+            "formatted": "$144.24"
+        },
+        "brand": {
+            "id": "0",
+            "type": "brand",
+            "name": "A-cold-wall",
+            "localizedName": "a-cold-wall"
+        },
+        "followers": 18,
+        "daysOnline": 46,
+        "viewsSinceLastWeek": 0,
+        "isPriceDropAlertView": false,
+        "isPriceDropAlertDaysOnline": false,
+        "pictures": [
+            {
+                "alt": "",
+                "path": "11306509-1_1.jpg"
+            }
+        ],
+        "priceDropped": {
+            "currency": "EUR",
+            "cents": 11930,
+            "formatted": "$119.30"
+        },
+        "recommendedPrice": {
+            "currency": "EUR",
+            "cents": 11930,
+            "formatted": "118.3"
+        }
+    },
+    {
+        "id": "7",
+        "name": "Poppy aviator sunglasses",
+        "originalPrice": {
+            "currency": "EUR",
+            "cents": 7592,
+            "formatted": "$75.92"
+        },
+        "brand": {
+            "id": "0",
+            "type": "brand",
+            "name": "Chloé",
+            "localizedName": "chloé"
+        },
+        "followers": 18,
+        "daysOnline": 60,
+        "viewsSinceLastWeek": 0,
+        "isPriceDropAlertView": false,
+        "isPriceDropAlertDaysOnline": false,
+        "pictures": [
+            {
+                "alt": "",
+                "path": "22865056-1_1.jpg"
+            }
+        ],
+        "priceDropped": {
+            "currency": "EUR",
+            "cents": 5423,
+            "formatted": "$54.23"
+        },
+        "recommendedPrice": {
+            "currency": "EUR",
+            "cents": 5423,
+            "formatted": "53.23"
+        }
+    },
+    {
+        "id": "8",
+        "name": "Sunglasses",
+        "originalPrice": {
+            "currency": "EUR",
+            "cents": 13159,
+            "formatted": "$131.59"
+        },
+        "brand": {
+            "id": "0",
+            "type": "brand",
+            "name": "A Bathing Ape",
+            "localizedName": "a bathing ape"
+        },
+        "followers": 18,
+        "daysOnline": 128,
+        "viewsSinceLastWeek": 0,
+        "isPriceDropAlertView": false,
+        "isPriceDropAlertDaysOnline": false,
+        "pictures": [
+            {
+                "alt": "",
+                "path": "22859863-1_1.jpg"
+            }
+        ],
+        "priceDropped": {
+            "currency": "EUR",
+            "cents": 10725,
+            "formatted": "$107.25"
+        },
+        "recommendedPrice": {
+            "currency": "EUR",
+            "cents": 10725,
+            "formatted": "106.25"
+        }
+    },
+    {
+        "id": "9",
+        "name": "Anthracite Cotton T-shirt",
+        "originalPrice": {
+            "currency": "EUR",
+            "cents": 2657,
+            "formatted": "$26.57"
+        },
+        "brand": {
+            "id": "0",
+            "type": "brand",
+            "name": "Adidas",
+            "localizedName": "adidas"
+        },
+        "followers": 18,
+        "daysOnline": 290,
+        "viewsSinceLastWeek": 0,
+        "isPriceDropAlertView": false,
+        "isPriceDropAlertDaysOnline": false,
+        "pictures": [
+            {
+                "alt": "",
+                "path": "10674258-1_1.jpg"
+            }
+        ],
+        "priceDropped": {
+            "currency": "EUR",
+            "cents": 723,
+            "formatted": "$7.23"
+        },
+        "recommendedPrice": {
+            "currency": "EUR",
+            "cents": 723,
+            "formatted": "6.23"
+        }
+    },
+    {
+        "id": "13",
+        "name": "Pink Cotton Shorts",
+        "originalPrice": {
+            "currency": "EUR",
+            "cents": 2277,
+            "formatted": "$22.77"
+        },
+        "brand": {
+            "id": "0",
+            "type": "brand",
+            "name": "Paco Rabanne",
+            "localizedName": "paco rabanne"
+        },
+        "followers": 18,
+        "daysOnline": 356,
+        "viewsSinceLastWeek": 0,
+        "isPriceDropAlertView": false,
+        "isPriceDropAlertDaysOnline": false,
+        "pictures": [
+            {
+                "alt": "",
+                "path": "9894151-1_1.jpg"
+            }
+        ],
+        "priceDropped": {
+            "currency": "EUR",
+            "cents": 362,
+            "formatted": "$3.62"
+        },
+        "recommendedPrice": {
+            "currency": "EUR",
+            "cents": 362,
+            "formatted": "2.62"
+        }
+    },
+    {
+        "id": "9624985",
+        "name": "Leather bag",
+        "originalPrice": {
+            "currency": "EUR",
+            "cents": 24293,
+            "formatted": "$242.93"
+        },
+        "brand": {
+            "id": "0",
+            "type": "brand",
+            "name": "A Cuckoo Moment...",
+            "localizedName": "a cuckoo moment..."
+        },
+        "followers": 18,
+        "daysOnline": 389,
+        "viewsSinceLastWeek": 0,
+        "isPriceDropAlertView": false,
+        "isPriceDropAlertDaysOnline": false,
+        "pictures": [
+            {
+                "alt": "",
+                "path": "9624985-1_1.jpg"
+            }
+        ],
+        "priceDropped": {
+            "currency": "EUR",
+            "cents": 17352,
+            "formatted": "$173.52"
+        },
+        "recommendedPrice": {
+            "currency": "EUR",
+            "cents": 17352,
+            "formatted": "172.52"
+        }
+    },
+    {
+        "id": "3",
+        "name": "Leather low trainers",
+        "originalPrice": {
+            "currency": "EUR",
+            "cents": 17967,
+            "formatted": "$179.67"
+        },
+        "brand": {
+            "id": "0",
+            "type": "brand",
+            "name": "Pablo",
+            "localizedName": "pablo"
+        },
+        "followers": 18,
+        "daysOnline": 389,
+        "viewsSinceLastWeek": 0,
+        "isPriceDropAlertView": false,
+        "isPriceDropAlertDaysOnline": false,
+        "pictures": [
+            {
+                "alt": "",
+                "path": "9624481-1_1.jpg"
+            }
+        ],
+        "priceDropped": {
+            "currency": "EUR",
+            "cents": 15304,
+            "formatted": "$153.04"
+        },
+        "recommendedPrice": {
+            "currency": "EUR",
+            "cents": 15304,
+            "formatted": "152.04"
+        }
+    },
+    {
+        "id": "55",
+        "name": "Glitter sandals",
+        "originalPrice": {
+            "currency": "EUR",
+            "cents": 31631,
+            "formatted": "$316.31"
+        },
+        "brand": {
+            "id": "0",
+            "type": "brand",
+            "name": "A-morir",
+            "localizedName": "a-morir"
+        },
+        "followers": 18,
+        "daysOnline": 508,
+        "viewsSinceLastWeek": 0,
+        "isPriceDropAlertView": false,
+        "isPriceDropAlertDaysOnline": false,
+        "pictures": [
+            {
+                "alt": "",
+                "path": "8638609-1_1.jpg"
+            }
+        ],
+        "priceDropped": {
+            "currency": "EUR",
+            "cents": 22594,
+            "formatted": "$225.94"
+        },
+        "recommendedPrice": {
+            "currency": "EUR",
+            "cents": 22594,
+            "formatted": "224.94"
+        }
+    }
+]
