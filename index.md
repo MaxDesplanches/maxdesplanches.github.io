@@ -1,4 +1,3 @@
-@import "{{ site.theme }}";
 ## Instructions
 
 Create an api
