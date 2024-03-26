@@ -19,7 +19,6 @@ Choose a language of your choice:
 
 - Create a new repository on GitHub / GitLab / BitBucket
 - Do not use API tool for automatic generation
-- Do not include vestiaire collective in repo name to avoid others candidate to copy your code
 - Appropriate commit message
 - Code organisation
 - Wording
